@@ -5,11 +5,11 @@
 ```console
 
 # unix
-chmod u+x box.py
+chmod u+x App.py
 ./box.py
 
 # windows(path)
-python3 box.py
+python3 App.py
 
 ```
 
